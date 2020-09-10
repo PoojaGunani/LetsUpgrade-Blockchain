@@ -1,1 +1,1 @@
-# LetsUpgrade-Blockchain
+# LetsUpgrade-JavaScript
